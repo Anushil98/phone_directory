@@ -1,0 +1,74 @@
+.container{
+  font-size:150%;
+}
+.w3-myfont {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.display-4{
+  color: red;
+  text-align: center;
+  background-color:black;
+}
+
+.btn{
+  color: white;
+  text-decoration: none;
+  background-color: red;
+  border-radius:4px;
+  
+  padding-right:10px;
+  padding-left:10px;
+}
+
+.btn:hover{
+  background-color: black;
+}
+
+#button{
+  background-color: black;
+  border: black;
+  color: white;
+  border-radius: 4px;
+  font-size: 75%;
+  margin-top:10px;
+  padding-left:10px;
+  padding-right:10px;
+  margin-bottom:40px;
+}
+
+#name{
+  margin-top:10px;
+  margin-bottom:20px;
+  background-color: #e5e5e5;
+  
+}
+
+#num{
+  margn-top:10px;
+  margin-bottom:20px;
+  background-color: #e5e5e5;
+}
+
+
+th{
+  background-color:black;
+  color: white;
+  
+}
+
+#c1{
+  background-color:#dfdfdf;
+}
+
+#add{
+  background-color:green;
+  color: white;
+  margin-right:1000px;
+}
+
+#remove,#error{
+  background-color:red;
+  color: white;
+  margin-right:1000px;
+}
+
